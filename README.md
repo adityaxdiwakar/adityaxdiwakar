@@ -21,6 +21,7 @@ I'm a student 🎓 at the Georgia Institute of Technology studying
 - 📬 Reach out to me @ [`aditya@diwakar.io`](mailto:aditya@diwakar.io) to chat!
 
 -------
+
 <h3 align="center">📙 Core Technologies</h3>
 
 <h4 align="center">Languages</h4>
@@ -70,9 +71,6 @@ I'm a student 🎓 at the Georgia Institute of Technology studying
   ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 </div>
-
-
-
 
 
 
