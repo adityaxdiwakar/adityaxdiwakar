@@ -15,7 +15,7 @@ I'm a student 🎓 at the Georgia Institute of Technology studying
 <h3 align="center">🍎 About Me</h3>
 
 - 🔭 Currently working on an assembler for LC-3 assembly w/ OCaml ([click here](https://github.com/adityaxdiwakar/ocamlc-3))
-- 📆 Incoming Intern on the Site Reliability Engineering & Systems Team at [The D.E. Shaw Group](https://www.deshaw.com/)
+- 📆 Incoming SWE Intern on the Site Reliability Engineering & Systems Team at [The D.E. Shaw Group](https://www.deshaw.com/)
 - 🗯️ Interested in Low Latency Systems Design, Programming Language Theory, and more!
 - 📝 Overkill with CI/CD — see my continuouly deployed resume repo [here](https://github.com/adityaxdiwakar/resume) 😆
 - 📬 Reach out to me @ [`aditya@diwakar.io`](mailto:aditya@diwakar.io) to chat!
