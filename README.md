@@ -14,7 +14,8 @@ I'm a student 🎓 at the Georgia Institute of Technology studying
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- 📆 SWE Intern on the Site Reliability Engineering & Systems Team at [The D.E. Shaw Group](https://www.deshaw.com/)
+- 📆 Incoming Software Engineering Intern at [Citadel Securities](https://citadelsecurities.com/)
+- 🗄️ Former Software Engineering Intern at [The D. E. Shaw Group](https://deshaw.com/)
 - 🗯️ Interested in Low Latency Systems Design, Programming Language Theory, and more!
 - 📝 Overkill with CI/CD — see my continuouly deployed resume repo [here](https://github.com/adityaxdiwakar/resume) 😆
 - 🎄 Happy Holidays! See my Advent of Code solns [here!](https://github.com/adityaxdiwakar/advent-of-code-2021)
