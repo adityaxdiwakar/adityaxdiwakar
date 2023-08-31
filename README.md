@@ -14,8 +14,7 @@ I'm a student 🎓 at the Georgia Institute of Technology studying
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- 📆 Low Latency Quantitative Research Intern at [Citadel Securities](https://citadelsecurities.com/)
+- 🔬 Incoming Quantitative Developer at [Citadel Securities](https://citadelsecurities.com/)
+- ⚡ Former Low Latency Quantitative Research Intern at [Citadel Securities](https://citadelsecurities.com/)
 - 🗄️ Former Software Engineering Intern at [The D. E. Shaw Group](https://deshaw.com/)
-- 🗯️ Interested in Low Latency Systems Design, Programming Language Theory, and more!
-- 📝 Overkill with CI/CD — see my continuouly deployed resume repo [here](https://github.com/adityaxdiwakar/resume) 😆
 - 📬 Reach out to me @ [`aditya@diwakar.io`](mailto:aditya@diwakar.io) to chat!
