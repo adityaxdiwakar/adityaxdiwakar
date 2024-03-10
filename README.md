@@ -6,15 +6,10 @@
   <a href="https://www.linkedin.com/in/adityadiwakar/">LinkedIn</a>
 </p>
 
-
-I'm a student 🎓 at the Georgia Institute of Technology studying
-- 🖱️ **Computer Science** for Machine Learning & System Architecture
-- 🧮 **Mathematics** for Probability & Statistics
-
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- 🔬 Incoming Quantitative Developer at [Citadel Securities](https://citadelsecurities.com/)
-- ⚡ Former Low Latency Quantitative Research Intern at [Citadel Securities](https://citadelsecurities.com/)
-- 🗄️ Former Software Engineering Intern at [The D. E. Shaw Group](https://deshaw.com/)
+- 🔬 Quantitative Developer at [Citadel Securities](https://citadelsecurities.com/)
+- 🐝 Alumni of Georgia Institute of Technology (Mathematics & Computer Science)
 - 📬 Reach out to me @ [`aditya@diwakar.io`](mailto:aditya@diwakar.io) to chat!
+- 🙅 To recruiters, etc: Do not reach out, thank you.
